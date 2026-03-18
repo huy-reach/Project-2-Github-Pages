@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cashier"},{"l":"connection_login"},{"l":"database"},{"l":"EmployeeManagement"},{"l":"InventoryManagement"},{"l":"Manager"},{"l":"MenuManagement"},{"l":"productUsage"},{"l":"Sullivan_Manager"}];updateSearchResults();
